@@ -1,0 +1,7 @@
+apikey_firebase="AIzaSyAxtD8N-v1xnH2121ceDOwgth_jHI9lYX0"
+authDomain_firebase= "messenger-7de3f.firebaseapp.com"
+DatabaseURl_firebase = "https://messenger-7de3f.firebaseio.com"
+ProjectID_firebase = "messenger-7de3f"
+StorageBucket_firebase =  "messenger-7de3f.appspot.com"
+messageSignSenderID_firebase= "868625106638"
+AppID_firebase= "1:868625106638:web:a186b8496782019b"
